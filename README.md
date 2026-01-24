@@ -1,15 +1,15 @@
-# 🏦 Fraud Detection System (FinTech Project)
+# Fraud Detection System (FinTech Project)
 
-## 📌 Overview
+## Overview
 This project demonstrates a **fraud detection pipeline** for financial transactions using **machine learning**.  
 It generates synthetic data, preprocesses it, trains a model, and evaluates fraud classification performance.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 - Jupyter Notebook
 - Random Forest Classifier
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 fintech-fraud-detection/
 ├── data/                # transaction dataset
@@ -18,7 +18,7 @@ fintech-fraud-detection/
 ├── requirements.txt     # dependencies
 └── README.md            # overview
 ```
-## 🚀 How to Run
+## How to Run
 ```bash
 # Install dependencies
 pip install -r requirements.txt
