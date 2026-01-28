@@ -9,7 +9,7 @@ It generates synthetic data, preprocesses it, trains a model, and evaluates frau
 - Jupyter Notebook
 - Random Forest Classifier
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 fintech-fraud-detection/
 ├── data/                # transaction dataset
