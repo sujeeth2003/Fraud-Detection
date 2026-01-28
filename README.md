@@ -4,7 +4,7 @@
 This project demonstrates a **fraud detection pipeline** for financial transactions using **machine learning**.  
 It generates synthetic data, preprocesses it, trains a model, and evaluates fraud classification performance.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 - Jupyter Notebook
 - Random Forest Classifier
