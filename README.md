@@ -1,6 +1,6 @@
 # Fraud Detection System (FinTech Project)
 
-## 📌 Overview
+## Overview
 This project demonstrates a **fraud detection pipeline** for financial transactions using **machine learning**.  
 It generates synthetic data, preprocesses it, trains a model, and evaluates fraud classification performance.
 
