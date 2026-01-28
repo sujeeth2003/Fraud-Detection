@@ -1,4 +1,4 @@
-# 🏦 Fraud Detection System (FinTech Project)
+# Fraud Detection System (FinTech Project)
 
 ## 📌 Overview
 This project demonstrates a **fraud detection pipeline** for financial transactions using **machine learning**.  
