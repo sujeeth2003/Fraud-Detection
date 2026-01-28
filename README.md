@@ -18,7 +18,7 @@ fintech-fraud-detection/
 ├── requirements.txt     # dependencies
 └── README.md            # overview
 ```
-## 🚀 How to Run
+## How to Run
 ```bash
 # Install dependencies
 pip install -r requirements.txt
