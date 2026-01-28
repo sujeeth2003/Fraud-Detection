@@ -18,14 +18,3 @@ fintech-fraud-detection/
 ├── requirements.txt     # dependencies
 └── README.md            # overview
 ```
-## How to Run
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebook
-jupyter notebook notebooks/fraud_detection.ipynb
-
-# Or run training script
-cd src
-python train_model.py
