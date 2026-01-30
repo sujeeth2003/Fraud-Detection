@@ -29,3 +29,11 @@ X_train, X_test, y_train, y_test = train_test_split(df.drop("is_fraud", axis=1),
 model = RandomForestClassifier(n_estimators=100, random_state=42)
 model.fit(X_train, y_train)
 
+# ---- Evaluation ----
+y_pred = model.predict(X_test)
+print(classification_report(y_test, y_pred))
+
+cm = confusion_matrix(y_test, y_pred)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm)
+disp.plot(cmap="Blues")
+plt.show()
